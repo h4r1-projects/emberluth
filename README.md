@@ -12,7 +12,7 @@ flicker, rain or snow taps the windows and the light follows your day. Swipe acr
   <img src="assets/screens/04-room-card.jpg" width="24%" alt="The common room">
   <img src="assets/screens/09-instrument-wall.jpg" width="24%" alt="The instrument wall">
   <img src="assets/screens/12-scales.jpg" width="24%" alt="Scales on the fretboard">
-  <img src="assets/screens/15-setlist.jpg" width="24%" alt="A setlist">
+  <img src="assets/screens/11-practice.jpg" width="24%" alt="Practice tools">
 </p>
 
 ## What's inside
@@ -20,10 +20,9 @@ flicker, rain or snow taps the windows and the light follows your day. Swipe acr
 - **Tune** 12 instruments in 85 tunings: guitar, 12-string, baritone, bass, double bass, ukulele, violin, viola, cello,
   banjo, tenor banjo and mandolin. Auto, manual and chromatic modes, fine mode, headstock view, custom tunings,
   reference pitch from 415 to 466 Hz and a left-handed layout.
-- **Practise** with a metronome, pitch pipe, 156 guitar chords, ear and chord-change trainers, eleven scales and
-  arpeggios on any fretboard, a fretboard note trainer, a capo finder and chord transposer, and a practice timer.
-- **Prepare** with gig packing lists and templates, setlists with key, capo and tuning, string-change records,
-  maintenance checklists and a journal.
+- **Practise** with a metronome, pitch pipe, 156 guitar chords, eleven scales and arpeggios on any fretboard, and a
+  practice timer that logs every session.
+- **Look after** your instruments with care guides, string-change records and notes, and keep a practice log with goals.
 
 ## Privacy
 
