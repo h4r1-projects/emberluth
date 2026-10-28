@@ -34,3 +34,5 @@ write stays on your phone. Read the [privacy policy](https://h4r1-projects.githu
 Coming soon to Google Play. Website: https://h4r1-projects.github.io/emberluth/
 
 © 2026 Harikrishnan B. All rights reserved. See [LICENSE](LICENSE).
+
+The room paintings are AI-generated, then upscaled and edited by the developer.
