@@ -40,7 +40,8 @@
     <li>Tuner settings: instrument, tuning, custom tunings, reference pitch, modes and display preferences.</li>
     <li>Practice data: metronome tempo and the start time of a running practice timer.</li>
     <li>Things you write: practice log entries, goals and notes, string-change records and instrument notes.</li>
-    <li>Room state: which instruments you tuned on which day, whether you have seen the opening, whether the room's fire and rain sounds are on, and the date of your last backup file.</li>
+    <li>Room state: which instruments you tuned on which day, whether you have seen the opening, whether the room's fire and rain sounds are on, your weekly practice goal, whether the tuner opens at start, and the date of your last backup file.</li>
+    <li>The optional daily reminder, if you turn it on: the time you chose, and the last day you played, so a reminder is skipped on days you already played. This is stored on your phone only.</li>
   </ul>
   <p>None of this is sent to the developer or anyone else by the app.</p>
 
@@ -51,6 +52,8 @@
   <ul>
     <li><strong>Microphone:</strong> for real-time pitch detection in the tuner.</li>
     <li><strong>Modify audio settings:</strong> lets the app's built-in web view open the microphone and play its own sounds (reference tones, the metronome, fire and rain). The app does not change your volume.</li>
+    <li><strong>Notifications:</strong> only if you turn on the daily reminder in Settings. Emberluth asks then, and you can refuse or turn it off at any time. Reminders are scheduled on your phone; nothing is sent from a server.</li>
+    <li><strong>Run at startup:</strong> lets Android restore the reminder after your phone restarts. It does nothing if the reminder is off.</li>
     <li><strong>Vibration:</strong> for optional haptic feedback, which you can turn off in Settings.</li>
     <li><strong>Internet:</strong> required by Android for the app's built-in web view. The app works fully offline and does not use the network to send your data.</li>
   </ul>

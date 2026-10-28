@@ -6,7 +6,7 @@
 <p align="center"><img src="assets/social-preview.jpg" alt="The Emberluth common room, lit by a fire"></p>
 
 Emberluth is a free, private app for string players, set in a living, painted common room. The fire breathes, candles
-flicker, rain or snow taps the windows and the light follows your day. Swipe across the room to visit each place.
+flicker, rain or snow taps the windows and the light follows your day. Tap what you want: the instrument wall, the music stand, the library or the hearth.
 
 <p align="center">
   <img src="assets/screens/04-room-card.jpg" width="24%" alt="The common room">
